@@ -1,12 +1,12 @@
 # tar-command
 tar command
 
-## 1> nén cả thư mục
+### 1, Nén cả thư mục
 ```
 tar -zcvf file.tar.gz /path/to/filename
 ```
 
-### 2> giải nén
+### 2, Giải nén
 ```
 tar -xzvf file.tar.gz
 ```
